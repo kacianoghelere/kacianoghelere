@@ -12,7 +12,7 @@ I hold a Bachelor's degree in Computer Science from the University of West Santa
 
 <div align="center">  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=kacianoghelere&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=eeeeee&bg_color=151515" /> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacianoghelere&layout=compact&hide_border=true&title_color=ffffff&text_color=eeeeee&bg_color=151515" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacianoghelere&layout=compact&hide_border=true&title_color=ffffff&text_color=eeeeee&bg_color=151515&hide=html" />
 </div>
 
 ###
