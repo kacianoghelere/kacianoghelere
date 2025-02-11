@@ -23,6 +23,8 @@ I hold a Bachelor's degree in Computer Science from the University of West Santa
 
 <h4 align="left">I have worked with</h4>
 <div align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" alt="flutter logo" title="flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30" alt="dart logo" title="dart" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="javascript logo" title="javascript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo" title="typescript" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="react native logo" title="react native" />
@@ -79,8 +81,6 @@ I hold a Bachelor's degree in Computer Science from the University of West Santa
 
 <h4 align="left">I'm currently studying</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" alt="flutter logo" title="flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30" alt="dart logo" title="dart" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30" alt="graphql logo" title="graphql" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="30" alt="kotlin logo" title="kotlin" />
 </div>
